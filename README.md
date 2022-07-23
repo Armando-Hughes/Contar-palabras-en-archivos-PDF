@@ -5,5 +5,6 @@ El Script permite desplegar una interfaz gráfica que pide 2 parámetros, la pal
 el número de veces que aparece esa palabra en el texto.
 
 Ejemplo:
+Tenemos el archivo PDF y queremos buscar cuántas veces aparece la palabra "document"
 
 ![Screenshot](contar_palabras.jpg)
