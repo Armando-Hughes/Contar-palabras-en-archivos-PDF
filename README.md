@@ -6,4 +6,4 @@ el número de veces que aparece esa palabra en el texto.
 
 Ejemplo:
 
-https://raw.githubusercontent.com/Armando-Hughes/Contar-palabras-en-archivos-PDF/contar_palabras.jpg
+https://github.com/Armando-Hughes/Contar-palabras-en-archivos-PDF/master/contar_palabras.jpg
