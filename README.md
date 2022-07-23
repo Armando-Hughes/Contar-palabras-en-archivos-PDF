@@ -5,4 +5,5 @@ El Script permite desplegar una interfaz gráfica que pide 2 parámetros, la pal
 el número de veces que aparece esa palabra en el texto.
 
 Ejemplo:
-https://raw.githubusercontent.com/Armando-Hughes/Contar-palabras-en-archivos-PDF/master/assets/contar_palabras.jpg
+
+https://raw.githubusercontent.com/Armando-Hughes/Contar-palabras-en-archivos-PDF/master/contar_palabras.jpg
