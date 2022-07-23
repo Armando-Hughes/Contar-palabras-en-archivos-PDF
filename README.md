@@ -6,4 +6,4 @@ el número de veces que aparece esa palabra en el texto.
 
 Ejemplo:
 
-![alt text](https://github.com/Armando-Hughes/Contar-palabras-en-archivos-PDF/contar_palabras.jpg)
+![Screenshot](contar_palabras.jpg)
